@@ -1,4 +1,5 @@
 /*
+*声明：本文是转载的，看到代码思路很好记录一下
 *author:https://github.com/kliuj
 **使用方法
 *		1：注册路由 : spaRouters.map('/name',function(transition){
